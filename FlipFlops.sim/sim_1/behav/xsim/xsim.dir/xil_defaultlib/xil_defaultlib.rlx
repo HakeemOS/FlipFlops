@@ -1,0 +1,13 @@
+0.7
+2020.2
+Nov 18 2020
+09:47:47
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.sim/sim_1/behav/xsim/glbl.v,1605673889,verilog,,,,glbl,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/D_tb.v,1673636034,verilog,,,,D_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/JK_tb.v,1673638917,verilog,,,,JK_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/SR_tb.v,1673632194,verilog,,,,SR_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/T_tb.v,1673710046,verilog,,,,T_tb,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sources_1/new/DFF_s.v,1673710938,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/D_tb.v,,DFF_s,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sources_1/new/JKFF_s.v,1673711990,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/JK_tb.v,,JKFF_s,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sources_1/new/SRFF_s.v,1673711653,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/SR_tb.v,,SRFF_s,,,,,,,,
+C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sources_1/new/TFF_s.v,1673710634,verilog,,C:/Users/squid/OneDrive/Documents/Vivado/2023/FlipFlops/FlipFlops.srcs/sim_1/new/T_tb.v,,TFF_s,,,,,,,,
